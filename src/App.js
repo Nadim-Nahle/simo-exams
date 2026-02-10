@@ -1,5 +1,5 @@
 import "./App.css";
-import { useState, useRef } from "react";
+import { useState } from "react";
 
 const messages = [
   "You are smarter than you think 🧠",
